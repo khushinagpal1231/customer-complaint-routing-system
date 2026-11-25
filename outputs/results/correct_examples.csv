@@ -1,0 +1,11 @@
+product,pred,confidence,n_words,issue,text_light
+Checking account,Checking account,0.991,24,demo,overdraft fees were charged even though i had enough money in the account. very frustrating experience please help i want this resolved ref 634
+Checking account,Checking account,0.99,26,demo,overdraft fees were charged even though i had enough money in the account. very frustrating experience please help i have called many times . ref 641
+Checking account,Checking account,0.99,25,demo,overdraft fees were charged even though i had enough money in the account. very frustrating experience please help i have called many times ref 307
+Credit card,Credit card,0.992,19,demo,unauthorized transactions appeared on my credit card statement. i sent documents twice no one responded please help ref 477
+Checking account,Checking account,0.991,27,demo,overdraft fees were charged even though i had enough money in the account. this is unacceptable i want this resolved i sent documents twice . ref 444
+Checking account,Checking account,0.99,25,demo,overdraft fees were charged even though i had enough money in the account. please help i sent documents twice i want this resolved ref 347
+Mortgage,Mortgage,0.992,23,demo,escrow account amount was wrong and my monthly mortgage payment increased. i have called many times very frustrating experience please help ref 8
+Debt collection,Debt collection,0.992,23,demo,i never received validation of the debt and they continue to call. very frustrating experience please help this is unacceptable . ref 665
+Debt collection,Debt collection,0.993,23,demo,the collection agency threatened legal action and harassed me by phone. i sent documents twice no one responded this is unacceptable ref 579
+Mortgage,Mortgage,0.993,24,demo,my mortgage servicer misapplied my payments and added late fees. i sent documents twice i want this resolved no one responded . ref 217

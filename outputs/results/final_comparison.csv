@@ -1,0 +1,6 @@
+model,accuracy,precision_macro,recall_macro,f1_macro
+BoW + NaiveBayes,1.0,1.0,1.0,1.0
+TF-IDF + NaiveBayes,1.0,1.0,1.0,1.0
+TF-IDF + LogReg,1.0,1.0,1.0,1.0
+TF-IDF + LinearSVM,1.0,1.0,1.0,1.0
+SBERT + LogReg,1.0,1.0,1.0,1.0
